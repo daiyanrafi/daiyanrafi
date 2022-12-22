@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)___________________________________________________________________________________________________________________________________________________](https://daiyanrafi.github.io/)
+[![MasterHead](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)_________________________________________________________________________________________________________________________________________________](https://daiyanrafi.github.io/)
 <h1 align="center">Hi 👋, I'm Daiyan Rafi</h1>
 <h3 align="center">A Software Engineer from Dhaka, Bangladesh</h3>
 <img align="right" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Coding" width="370">
