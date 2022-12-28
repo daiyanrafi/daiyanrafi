@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)________________________________________________________________________](https://daiyanrafi.github.io/)
+[![MasterHead](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif)________________________________________________________________________](https://daiyanrafi.github.io/)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daiyan Rafi
 ===================================================================================================================================
 
@@ -7,9 +7,6 @@ Software Engineer
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [daiyan.rafi@yahoo.com](mailto:daiyan.rafi@yahoo.com)
-
-<img align="right" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="Coding" width="370">
-
 * 🤝  I'm open to collaborating on as a developer.
 * ⚡  i can laugh
 
