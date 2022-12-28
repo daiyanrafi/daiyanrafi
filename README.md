@@ -49,7 +49,6 @@ Software Engineer
 </a></div><br /><br /><br /><br /><br /><br /><br />
 <br></br>
 
-<a href="http://www.github.com/daiyanrafi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=daiyanrafi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
  <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=daiyanrafi">
