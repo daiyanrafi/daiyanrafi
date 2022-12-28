@@ -47,8 +47,6 @@ Software Engineer
 <div width="100%" align="center"><a href="https://github.com/daiyanrafi/Laundry-web-main-commit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Laundry-web-main-commit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daiyanrafi/Restaurant-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Restaurant-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 </a></div><br /><br /><br /><br /><br /><br /><br />
-<br></br>
-
 
  <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=daiyanrafi">
