@@ -39,6 +39,18 @@ Software Engineer
 <a href="https://github.com/daiyanrafi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiyanrafi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
     
  <a href="http://www.github.com/daiyanrafi"><img src="https://github-readme-stats.vercel.app/api?username=daiyanrafi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="daiyanrafi's GitHub stats" /></a>
+ 
+ <b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/daiyanrafi/real-route-monitoring-nodejs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=real-route-monitoring-nodejs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daiyanrafi/small-intestine-new-patch-ml" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=small-intestine-new-patch-ml&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/daiyanrafi/Laundry-web-main-commit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Laundry-web-main-commit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daiyanrafi/foodsa" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=foodsa&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
+<a href="http://www.github.com/daiyanrafi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=daiyanrafi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=daiyanrafi">
