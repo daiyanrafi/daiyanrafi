@@ -1,10 +1,10 @@
-[![MasterHead](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif)](https://daiyanrafi.github.io/)
-<br></br>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daiyan Rafi
 ===================================================================================================================================
 
 Software Engineer
 -----------------
+<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" alt="Coding" width="370">
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [daiyan.rafi@yahoo.com](mailto:daiyan.rafi@yahoo.com)
@@ -33,6 +33,7 @@ Software Engineer
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/pifflox" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/daiyanrafi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daiyanrafi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@daiyanrafi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/9129810/pifflox" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
 
 ### <b>My GitHub Stats</b>
 
