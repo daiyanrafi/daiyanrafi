@@ -39,8 +39,9 @@ Software Engineer
 
 <a href="https://github.com/daiyanrafi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiyanrafi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>   
  
- <b>Top Repositories</b>
-
+ ### <b>Top Repositories </b>
+ 
+<p align="center"> <b>Even if, the BELOW(⬇) link looks broke. But if you click on them it will take you to the actuall REPOSITORY. </b>
 
 <div width="100%" align="center"><a href="https://github.com/daiyanrafi/server-monitoring-api-using-raw-Nodejs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=server-monitoring-api-using-raw-Nodejs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daiyanrafi/Laundry-web-main-commit" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Laundry-web-main-commit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
