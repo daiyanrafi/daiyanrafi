@@ -37,17 +37,14 @@ Software Engineer
 ### <b>My GitHub Stats</b>
 
 
-<a href="https://github.com/daiyanrafi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiyanrafi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>   
- 
- ### <b>Top Repositories </b>
- 
-<p align="center"> <b>Even if, the BELOW(⬇) link looks broke. But if you click on them it will take you to the actuall REPOSITORY. </b>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=server-monitoring-api-using-raw-Nodejs)](https://github.com/daiyanrafi/server-monitoring-api-using-raw-Nodejs)
 
-<div width="100%" align="center"><a href="https://github.com/daiyanrafi/server-monitoring-api-using-raw-Nodejs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=server-monitoring-api-using-raw-Nodejs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daiyanrafi/Laundry-web-main-commit" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Laundry-web-main-commit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=small-intestine-new-patch-ml)](https://github.com/daiyanrafi/small-intestine-new-patch-ml)
 
-<div width="100%" align="center"><a href="https://github.com/daiyanrafi/Restaurant-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Restaurant-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/daiyanrafi/small-intestine-new-patch-ml" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=small-intestine-new-patch-ml&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Laundry-web-main-commit)](https://github.com/daiyanrafi/Laundry-web-main-commit)
 
-</a></div><br /><br /><br /><br /><br /><br /><br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Restaurant-App)](https://github.com/daiyanrafi/Restaurant-App)
+
 
  <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=daiyanrafi">
