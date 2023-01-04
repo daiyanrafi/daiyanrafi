@@ -5,10 +5,10 @@ Hi !👋 My name is Rafi
 
 -----------------
 
-* 🌍  I'm based in Dhaka, Bangladesh
-* ✉️  You can contact me at [daiyan.rafi@yahoo.com](mailto:daiyan.rafi@yahoo.com)
-* 🤝  I'm open to collaborating on as a developer.
-* ⚡  i can laugh
+*  I'm based in Dhaka, Bangladesh
+*  You can contact me at [daiyan.rafi@yahoo.com](mailto:daiyan.rafi@yahoo.com)
+*  I'm open to collaborating on as a developer.
+*  i can laugh
 
 ### Skills
 
