@@ -33,7 +33,7 @@ Hi ! My name is Rafi
 
 
 
-
+<!-- 
 ### <b>Top Repositories</b>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=server-monitoring-api-using-raw-Nodejs)](https://github.com/daiyanrafi/server-monitoring-api-using-raw-Nodejs)
@@ -42,7 +42,7 @@ Hi ! My name is Rafi
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Laundry-web-main-commit)](https://github.com/daiyanrafi/Laundry-web-main-commit)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Restaurant-App)](https://github.com/daiyanrafi/Restaurant-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Restaurant-App)](https://github.com/daiyanrafi/Restaurant-App) -->
 
 
  <a href="https://github.com/antonkomarev/github-profile-views-counter">
