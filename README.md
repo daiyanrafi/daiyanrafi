@@ -41,6 +41,6 @@ Hi ! My name is Rafi
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daiyanrafi&repo=Restaurant-App)](https://github.com/daiyanrafi/Restaurant-App) -->
 
 
- <a href="https://github.com/antonkomarev/github-profile-views-counter">
+<!--  <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=daiyanrafi">
-</a>
+</a> -->
